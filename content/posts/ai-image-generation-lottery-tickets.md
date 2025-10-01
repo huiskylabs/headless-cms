@@ -108,13 +108,9 @@ Here's how progressive editing changes the creative process:
 
 ![Multiple region selections with text prompts for AI image editor workflow](./ai-image-generation-lottery-tickets/selection-w-prompts.png)
 
-Once that's ready, submit and generate 1-4 variations to pick from:
+Once that's ready, submit and generate 1-4 variations to pick from. The results only change the selected areas. Everything else stays the same:
 
 ![AI image generation options showing multiple variations in PeelStudio interface](./ai-image-generation-lottery-tickets/edit-1.png)
-
-The results only change the selected areas. Everything else stays the same:
-
-![Non-destructive AI editing result showing localized changes to living room](./ai-image-generation-lottery-tickets/edit-1.png)
 
 **Step 3: Keep going.** Select more areas and add more elements:
 
