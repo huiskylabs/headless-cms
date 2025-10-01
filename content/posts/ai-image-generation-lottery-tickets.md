@@ -3,7 +3,7 @@ title: "Why AI Image Generation Feels Like Buying Lottery Tickets (And How to Fi
 slug: "ai-image-generation-lottery-tickets"
 date: "2025-09-30"
 author: "Huisky"
-excerpt: "Finally, a predictable way to create the images in your head"
+excerpt: "Finally, a predictable way to create AI images from your vision"
 description: "Tired of prompt roulette with Midjourney and ChatGPT? Learn how progressive AI image editing gives you predictable, professional results without endless trial and error."
 tags: ["ai", "image-generation", "design", "workflow", "peelstudio.ai", "midjourney-alternative", "ai-image-editor"]
 published: true
@@ -82,11 +82,15 @@ Instead of throwing prompts at a black box and hoping for magic, progressive edi
 
 PeelStudio AI is the first AI image editor built specifically for progressive, non-destructive workflows. Think of it as a Midjourney alternative with visual control, or a simplified ComfyUI with an intuitive interface.
 
+Powered by advanced AI models including ByteDance's Seedream 4.0 and Gemini Nano Banana with 4K resolution support, PeelStudio delivers professional-grade image quality while maintaining an intuitive editing experience.
+
 Key features:
 
 **Progressive, non-destructive workflow:** Node-based precision under the hood with an intuitive, layer-like interface on top. Your complete iteration history gets preserved so you never lose good ideas.
 
 **Visual plus textual editing:** Select regions with familiar brush tools, then enhance those selections with targeted prompts. You get the best of both interaction styles.
+
+**4K high-resolution output:** Generate images up to 4K resolution with Seedream 4.0's advanced AI model, ensuring professional quality for any use case—from web graphics to print materials.
 
 **Prompt enhancement:** The AI expands your ideas into richer variations and suggests creative directions you might not have considered. This makes advanced techniques accessible even if you're not a "prompt engineer."
 
