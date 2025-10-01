@@ -1,6 +1,9 @@
 # Drafts (work in progress)
 content/drafts/
 
+# Generated Medium-friendly posts
+content/posts-medium/
+
 # Node
 node_modules/
 npm-debug.log*

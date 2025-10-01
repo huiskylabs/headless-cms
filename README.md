@@ -167,9 +167,35 @@ npm install @next/mdx
 - ✅ Portable - works with any framework
 - ✅ Simple backup (just git)
 
+## Cross-Posting to Medium/Dev.to/Hashnode
+
+Generate Medium-friendly versions of all posts:
+
+```bash
+npm run build
+# or
+npm run generate:medium
+```
+
+This creates clean markdown files in `content/posts-medium/` with:
+- Absolute image URLs (instead of relative paths)
+- HTML removed (divs, inline styles, etc.)
+- Canonical links back to your blog
+- Ready to copy/paste into Medium, Dev.to, or Hashnode
+
+### Publishing Workflow
+
+1. Write your post in `content/posts/`
+2. Commit and push to GitHub
+3. Run `npm run generate:medium`
+4. Copy from `content/posts-medium/[your-post].md`
+5. Paste into Medium/Dev.to/Hashnode editor
+6. Add canonical URL back to your original post
+
 ## Tips
 
 - Keep images in `content/posts/images/` or use external hosting (Cloudinary, etc.)
 - Use consistent frontmatter fields across all posts
 - Create a `content/posts/template.md` for new post scaffolding
 - Use GitHub Actions to validate frontmatter on commits
+- Run `npm run generate:medium` before cross-posting to other platforms
