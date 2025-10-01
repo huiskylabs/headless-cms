@@ -116,11 +116,13 @@ Once that's ready, submit and generate 1-4 variations to pick from. The results 
 
 ![Progressive AI image editing with additional region selections and prompts](./ai-image-generation-lottery-tickets/selection-2-prompt.png)
 
-results:
-![Progressive AI image editing with more region selections and prompts](./ai-image-generation-lottery-tickets/edit-3.png)
+results
+![Progressive AI image editing to add rug](./ai-image-generation-lottery-tickets/edit-3.png)
 
-**Step 4: Done.** Keep iterating until you get the result you want:
+**Step 4: Done.** Keep iterating until you get the result you want, i.e. add another potted plant to balance composition:
+![Progressive AI image editing to add plant](./ai-image-generation-lottery-tickets/edit-4.png)
 
+result:
 ![Final result of progressive AI image editing showing fully furnished living room](./ai-image-generation-lottery-tickets/after.png)
 
 The result looks intentional and polished, matching what I had in mind, done in way less time than traditional methods. The whole process is non-destructive. The original layout and furniture stay intact throughout.
