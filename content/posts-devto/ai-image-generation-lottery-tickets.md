@@ -99,13 +99,16 @@ Here's how progressive editing changes the creative process:
 
 ![Multiple region selections with text prompts for AI image editor workflow](https://peelstudio.ai/blog-images/ai-image-generation-lottery-tickets/selection-w-prompts.png)
 
-Once that's ready, submit and we will see the result only change the selected areas. Everything else stays the same:
+Once that's ready, submit and generate 1-4 variations to pick from. The results only change the selected areas. Everything else stays the same:
 
 ![AI image generation options showing multiple variations in PeelStudio interface](https://peelstudio.ai/blog-images/ai-image-generation-lottery-tickets/edit-1.png)
 
-**Step 3: Keep going.** Select more areas and add more elements:
+**Step 3: Keep going.** Select more areas and add more elements, i.e. add a rug in selection area:
 
 ![Progressive AI image editing with additional region selections and prompts](https://peelstudio.ai/blog-images/ai-image-generation-lottery-tickets/selection-2-prompt.png)
+
+results:
+![Progressive AI image editing with more region selections and prompts](https://peelstudio.ai/blog-images/ai-image-generation-lottery-tickets/edit-3.png)
 
 **Step 4: Done.** Keep iterating until you get the result you want:
 
